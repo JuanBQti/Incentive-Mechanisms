@@ -177,12 +177,12 @@ of it.
 
 ## Repo Sources Used
 
-- `README.md`
-- `reward-system-spec/README.md`
-- `reward-system-spec/the-intended-game/README.md`
-- `reward-system-spec/diagnostic/findings.md`
-- `reward-system-spec/solution-evaluation/README.md`
-- `reward-system-spec/solution-evaluation/v2-proposal/new-CIP.md`
-- `reward-system-spec/implementation-scope/README.md`
-- `reward-system-spec/whats-next/README.md`
-- `report-november-2025/report.tex`
+- [`README.md`](README.md)
+- [`reward-system-spec/README.md`](reward-system-spec/README.md)
+- [`reward-system-spec/the-intended-game/README.md`](reward-system-spec/the-intended-game/README.md)
+- [`reward-system-spec/diagnostic/findings.md`](reward-system-spec/diagnostic/findings.md)
+- [`reward-system-spec/solution-evaluation/README.md`](reward-system-spec/solution-evaluation/README.md)
+- [`reward-system-spec/solution-evaluation/v2-proposal/new-CIP.md`](reward-system-spec/solution-evaluation/v2-proposal/new-CIP.md)
+- [`reward-system-spec/implementation-scope/README.md`](reward-system-spec/implementation-scope/README.md)
+- [`reward-system-spec/whats-next/README.md`](reward-system-spec/whats-next/README.md)
+- [`report-november-2025/report.tex`](report-november-2025/report.tex)
