@@ -13,20 +13,12 @@ from reserve-funded bootstrapping to fee-funded self-sufficiency.
 
 The repo is organized as a sequence:
 
-1. `reward-system-spec/the-intended-game/README.md` explains the intended
-   mechanism in plain language: transaction submitters fund the game,
-   operators commit infrastructure and pledge, and delegators allocate stake
-   and discipline operators.
-2. `reward-system-spec/diagnostic/README.md` and
-   `reward-system-spec/diagnostic/findings.md` compare that intended game with
-   mainnet observations.
-3. `reward-system-spec/generated-website/problem-statements.html` turns the
-   observations into induced problems.
-4. `reward-system-spec/README.md` proposes a sequence of solution directions.
-5. `reward-system-spec/solution-evaluation/README.md` evaluates existing CIPs
-   against the induced problems.
-6. `reward-system-spec/implementation-scope/README.md` estimates what the
-   first recommended V2 reward reform would take to build.
+1. [`reward-system-spec/the-intended-game/README.md`](https://github.com/input-output-hk/spo-incentives/blob/main/reward-system-spec/the-intended-game/README.md) explains the intended mechanism in plain language: transaction submitters fund the game, operators commit infrastructure and pledge, and delegators allocate stake and discipline operators.
+2. [`reward-system-spec/diagnostic/README.md`](https://github.com/input-output-hk/spo-incentives/blob/main/reward-system-spec/diagnostic/README.md) and [`reward-system-spec/diagnostic/findings.md`](https://github.com/input-output-hk/spo-incentives/blob/main/reward-system-spec/diagnostic/findings.md) compare that intended game with mainnet observations.
+3. [`reward-system-spec/generated-website/problem-statements.html`](https://github.com/input-output-hk/spo-incentives/blob/main/reward-system-spec/generated-website/problem-statements.html) turns the observations into induced problems.
+4. [`reward-system-spec/README.md`](https://github.com/input-output-hk/spo-incentives/blob/main/reward-system-spec/README.md) proposes a sequence of solution directions.
+5. [`reward-system-spec/solution-evaluation/README.md`](https://github.com/input-output-hk/spo-incentives/blob/main/reward-system-spec/solution-evaluation/README.md) evaluates existing CIPs against the induced problems.
+6. [`reward-system-spec/implementation-scope/README.md`](https://github.com/input-output-hk/spo-incentives/blob/main/reward-system-spec/implementation-scope/README.md) estimates what the first recommended V2 reward reform would take to build.
 
 The core reward-envelope framing used throughout the repo is:
 
